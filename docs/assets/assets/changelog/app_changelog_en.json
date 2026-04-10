@@ -1,0 +1,97 @@
+{
+  "0.8.2+5": {
+    "title": "What's new",
+    "changes": [
+      "Changelog is now shown automatically the first time you launch after updating.",
+      "A \"Changelog\" button was added to Settings so you can view it anytime."
+    ]
+  },
+  "0.8.3+5": {
+    "title": "What's new",
+    "changes": [
+      "Added backgrounds to screens",
+      "Fixed dashboard grid layout tiles width issue.",
+      "Added disclaimer to settings screen and first launch.",
+      "Refactored appbar to constant height."
+    ]
+  },
+  "0.8.4+5": {
+    "title": "What's new",
+    "changes": [
+      "Fixed critters background photos opacity"
+    ]
+  },
+  "0.8.5+5": {
+    "title": "What's new",
+    "changes": [
+      "Added energy balance screen."
+    ]
+  },
+  "0.9.0+5": {
+    "title": "What's new",
+    "changes": [
+      "Database structure changed to support new features.",
+      "Added fuel refill screen.",
+      "Added water and general storage screen.",
+      "Consistent background opacity for list item tiles."
+    ]
+  },
+  "0.9.1+5": {
+    "title": "What's new",
+    "changes": [
+      "Add more background images.",
+      "Unify widgets for mech body parts and chips.",
+      "Unified item list tile widgets.",
+      "Change critter detail screen to use new layout depending on screen size."
+    ]
+  },
+  "0.10.3+5": {
+    "title": "What's new",
+    "changes": [
+      "Removed a few languages not known by me thus not being able to translate and verify",
+      "Added map node clustering on map screen",
+      "Added max unlocked power generator to energy balance screen",
+      "Fixed android link launch issue",
+      "More ui translations"
+    ]
+  },
+  "0.11.12+5": {
+    "title": "What's new",
+    "changes": [
+      "Added corrupted regions to map screen",
+      "Added artifacts to map screen",
+      "Added share button to settings screen",
+      "Added data encryption",
+      "Added onboarding screen",
+      "Added region obtainables screen",
+      "Merged some encyclopedia categories"
+    ]
+  },
+  "0.11.14+5": {
+    "title": "What's new",
+    "changes": [
+      "Polished encyclopedia screen",
+      "Polished deliveries screen",
+      "Fixed mech screen layout"
+    ]
+  },
+  "0.11.15+5": {
+    "title": "What's new",
+    "changes": [
+      "Map filter rework",
+      "Merged farming, mech parts and constructs appbar widgets"
+    ]
+  },
+  "0.11.16+5": {
+    "title": "What's new",
+    "changes": [
+      "Modified map screen help text to match new filter layout"
+    ]
+  },
+  "0.11.17+5": {
+    "title": "What's new",
+    "changes": [
+      "Encyclopedia screen polish"
+    ]
+  }
+}

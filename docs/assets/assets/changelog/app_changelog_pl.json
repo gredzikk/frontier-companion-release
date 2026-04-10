@@ -1,0 +1,97 @@
+{
+  "0.8.2+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Lista zmian jest wyświetlana automatycznie przy pierwszym uruchomieniu lub po aktualizacji.",
+      "Dodano \"Lista zmian\" do ustawień - przycisk otwiera okno które teraz widzisz."
+    ]
+  },
+  "0.8.3+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Dodano tła do ekranów",
+      "Naprawiono błąd skalowania kafelków na szerszych ekranach.",
+      "Dodano umowę końcową do ustawień i przy pierwszym uruchomieniu.",
+      "Appbar ma stałą wysokość."
+    ]
+  },
+  "0.8.4+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Poprawiono przezroczystość tła ekranu zwierzątek"
+    ]
+  },
+  "0.8.5+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Dodano funkcję bilansu energii."
+    ]
+  },
+  "0.9.0+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Nowe funkcje zawarte w bazie.",
+      "Dodano ekran paliwa.",
+      "Dodano funkcję magazynu i pojemności wody.",
+      "Poprawiono przezroczystość elementów na wszystkich ekranach."
+    ]
+  },
+  "0.9.1+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Więcej obrazków tła.",
+      "Połączenie widgetów ekranu mecha.",
+      "Połączono widgety wyświetlane na listach.",
+      "Ekran zwierzątek zmienia układ zależnie od rozmiaru ekranu."
+    ]
+  },
+  "0.10.3+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Usunięto języki nieznane przez nasz zespół z powodu braku możliwości wiarygodnej weryfikacji tłumaczeń :(",
+      "Dodano grupowanie elementów mapy",
+      "Dodano wybór generatora do ekranu bilansu",
+      "Poprawiono błąd otwierania linków",
+      "Więcej tłumaczeń interfejsu"
+    ]
+  },
+  "0.11.12+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Dodano zanieczyszczone regiony do mapy",
+      "Dodano artefakty do filtrów mapy",
+      "Nowy przycisk w ustawieniach: Udostępnij",
+      "Szyfrowanie danych",
+      "Dodano ekran powitalny",
+      "Dodano zasoby podzielone na regiony",
+      "Połączono kategorie encyklopedii"
+    ]
+  },
+  "0.11.14+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Poprawki ekranu encyklopedii",
+      "Poprawki ekranu dostaw",
+      "Poprawki ekranu mecha"
+    ]
+  },
+  "0.11.15+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Zmiana filtrów mapy",
+      "Połączenie widgetów ekranu farmingu, części mecha i konstrukcji"
+    ]
+  },
+  "0.11.16+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Zmodyfikowano tekst pomocy ekranu mapy aby pasował do nowego układu filtrów"
+    ]
+  },
+  "0.11.17+5": {
+    "title": "Co nowego",
+    "changes": [
+      "Poprawki ekranu encyklopedii"
+    ]
+  }
+}
